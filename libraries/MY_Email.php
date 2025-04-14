@@ -2,10 +2,10 @@
 
 /**
  * CodeIgniter compatible email-library powered by PHPMailer.
- * Version: 1.5.0
+ * Version: 1.5.1
  * @author Ivan Tcholakov <ivantcholakov@gmail.com>, 2012-2022.
  * @license The MIT License (MIT), http://opensource.org/licenses/MIT
- * @link https://github.com/ivantcholakov/codeigniter-phpmailer
+ * @link https://github.com/amesena/codeigniter-phpmailer8
  *
  * Tested on CodeIgniter 3.1.13 (March 3rd, 2022) and
  * PHPMailer Version 6.6.4 (August 22nd, 2022).
