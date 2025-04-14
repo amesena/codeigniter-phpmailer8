@@ -1,3 +1,8 @@
+1.5.2 - 14-APR-2025
+-------------------
+fork amesena
+* Add compatibility with php 8.3
+
 1.5.0 - 25-AUG-2022
 -------------------
 
