@@ -118,9 +118,11 @@ class MY_Email extends CI_Email {
 
     // The Destructor ----------------------------------------------------------
 
-    public function __destruct() {
-
-        if (is_callable('parent::__destruct')) {
+    public function __destruct()
+    {
+        $parentClass = get_parent_class($this);
+        
+        if ($parentClass !== false && method_exists($parentClass, '__destruct')) {
             parent::__destruct();
         }
     }
