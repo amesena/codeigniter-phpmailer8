@@ -1,15 +1,15 @@
 {
-    "name": "ivantcholakov/codeigniter-phpmailer",
+    "name": "amesena/codeigniter-phpmailer8",
     "description": "A CodeIgniter 3 compatible email-library powered by PHPMailer.",
     "keywords": ["php", "codeigniter", "phpmailer"],
-    "homepage": "https://github.com/ivantcholakov/codeigniter-phpmailer",
+    "homepage": "https://github.com/amesena/codeigniter-phpmailer8",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ivan Tcholakov",
-            "email": "ivantcholakov@gmail.com",
-            "homepage": "https://github.com/ivantcholakov"
+            "name": "Amedeo Sena",
+            "email": "amesena62@gmail.com",
+            "homepage": "https://github.com/amesena"
         }
     ],
     "require": {
